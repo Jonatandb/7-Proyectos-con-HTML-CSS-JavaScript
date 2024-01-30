@@ -1,2 +1,2 @@
 # Snake
-![Snake Game Screenshot](screenshot.png)
+![Snake Game Screenshot](screenshot.gif)
