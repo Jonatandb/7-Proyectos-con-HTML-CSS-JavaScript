@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cifrador Cesar</title>
+    <!-- My Styles -->
+    <link rel="stylesheet" href="styles.css" />
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.png" type="image/png" />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+<main>
+  <h1>Cifrador César</h1>
+  <form id="cifrador-form" autocomplete="off">
+    <input id="input-original" spellcheck="false" type="text" type="text" placeholder="Ingrese el texto">
+  </form>
+  <div id="resultado"></div>
+  <div class="rango">
+    <input id="rango" type="range" value="10" min="0" max="20" oninput="this.nextElementSibling.value = this.value">
+    <output>10</output>
+  </div>
+</main>
+  </body>
+</html>
