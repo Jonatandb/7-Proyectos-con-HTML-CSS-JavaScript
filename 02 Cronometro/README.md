@@ -1,2 +1,2 @@
 # Cronómetro
-![Cronómetro Screenshot](screenshot.png)
+![Cronómetro Screenshot](screenshot.gif)
