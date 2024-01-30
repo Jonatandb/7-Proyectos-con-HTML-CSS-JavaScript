@@ -3,3 +3,6 @@
 
 # 1) Snake
 ![Snake Game](<01 Snake/screenshot.png>)
+
+# 2) Cronómetro
+![Cronómetro](<02 Cronometro/screenshot.png>)
