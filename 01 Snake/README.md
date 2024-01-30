@@ -1,2 +1,2 @@
-# 1) Snake
+# Snake
 ![Snake Game Screenshot](screenshot.png)
