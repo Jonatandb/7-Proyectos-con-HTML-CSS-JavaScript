@@ -40,7 +40,7 @@ class Display {
   computar(tipoOperacion) {
     this.tipoOperacion !== 'igual' && this.calcular()
     this.tipoOperacion = tipoOperacion
-    this.valorAnterior = this.valorActual || this.valorAnterior
+    this.valorAnterior = this.valorActual.toString() || this.valorAnterior
     this.valorActual = ''
     this.imprimirValores()
   }
