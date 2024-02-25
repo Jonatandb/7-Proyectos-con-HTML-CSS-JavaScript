@@ -15,3 +15,6 @@
 
 # 5) Lista de tareas
 ![Lista de tareas Screenshot](<05 Lista de tareas/screenshot.gif>)
+
+# 6) Ahorcado Pixel
+![Ahorcado Pixel Screenshot](<06 Ahorcado/screenshot.gif>)
