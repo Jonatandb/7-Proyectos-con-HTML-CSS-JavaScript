@@ -18,3 +18,6 @@
 
 # 6) Ahorcado Pixel
 ![Ahorcado Pixel Screenshot](<06 Ahorcado/screenshot.gif>)
+
+# 7) Paletas de colores
+![Paletas de colores Screenshot](<07 Paletas de colores/screenshot.gif>)
